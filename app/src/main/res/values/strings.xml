@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LITHA VPN</string>
+    <string name="noadvertisment">No Advertisment</string>
+    <string name="secure_vpn">Secure VPN</string>
+    <string name="netflix">Get full Netflix access VPN</string>
+    <string name="high_speed"> High speed</string>
+    <string name="upgrade">Upgrade to Premium</string>
+    <string name="privacypolicy">I agree for all</string>
+    <string name="terms"><u>Terms and Conditions.</u></string>
+    <string name="premium">Premium</string>
+</resources>
